@@ -1,0 +1,52 @@
+{
+  "0": {
+    "columns": {
+      "0": "Year",
+      "1": "Make and model",
+      "2": "Top speed of production car",
+      "3": "Engine",
+      "4": "Number built",
+      "5": "Comment"
+    }
+  },
+  "1": {
+    "columns": {
+      "0": "1894",
+      "1": "Benz Velo",
+      "2": "20 km/h (12 mph)[3]",
+      "3": "1,045 cm3 (63.8 cu in) single-cylinder 1.1 kW (1.5 PS; 1.5 bhp)",
+      "4": "1,200",
+      "5": "First production car"
+    }
+  },
+  "2": {
+    "columns": {
+      "0": "1949",
+      "1": "Jaguar XK120",
+      "2": "200.5 km/h (124.6 mph)[4]",
+      "3": "3,442 cm3 (210.0 cu in) inline-6 119 kW (162 PS; 160 hp)",
+      "4": "12,000",
+      "5": "Some publications cite the XK120's timed top speed as almost 214 km/h (133 mph) in 1949.[5] The XK120 that achieved this speed was a tuned prototype, not a production car. The production car reached 200.5 km/h (124.6 mph)."
+    }
+  },
+  "3": {
+    "columns": {
+      "0": "1955",
+      "1": "Mercedes-Benz 300SL",
+      "2": "242.5 km/h (150.7 mph)[6]",
+      "3": "2,996 cm3 (182.8 cu in) inline-6 158 kW (215 PS; 212 hp)",
+      "4": "1,400",
+      "5": "Two-way average speed tested by Automobil Revue in 1958. 245 km/h (152.2 mph) reached in one direction."
+    }
+  },
+  "4": {
+    "columns": {
+      "0": "1959",
+      "1": "Aston Martin DB4 GT",
+      "2": "245 km/h (152 mph)[7]",
+      "3": "3,670 cm3 (224 cu in) inline-6 225 kW (306 PS; 302 hp)",
+      "4": "75",
+      "5": "Tested by Autosport in December 1961."
+    }
+  }
+}
